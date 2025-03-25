@@ -289,7 +289,7 @@ replace github.com/Enflick/aws-sdk-go-v2/service/ssm => ../../../service/ssm/
 
 replace github.com/Enflick/aws-sdk-go-v2/service/sso => ../../../service/sso/
 
-replace github.com/Enflick/aws-sdk-go-v2/service/ssooidc v0.0.0-20250325155711-0a4bf6fdbeb3 => ../../../service/ssooidc v0.0.0-20250325155711-0a4bf6fdbeb3/
+replace github.com/Enflick/aws-sdk-go-v2/service/ssooidc => ../../../service/ssooidc/
 
 replace github.com/Enflick/aws-sdk-go-v2/service/sts => ../../../service/sts/
 
