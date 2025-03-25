@@ -12,8 +12,8 @@ require (
 
 require (
 	github.com/Enflick/aws-sdk-go-v2/credentials v1.17.16 // indirect
-	github.com/Enflick/aws-sdk-go-v2/internal/configsources v1.3.7 // indirect
-	github.com/Enflick/aws-sdk-go-v2/internal/endpoints/v2 v2.6.7 // indirect
+	github.com/Enflick/aws-sdk-go-v2/internal/configsources v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
+	github.com/Enflick/aws-sdk-go-v2/internal/endpoints/v2 v2.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 )
 
@@ -39,6 +39,6 @@ replace github.com/Enflick/aws-sdk-go-v2/service/kinesis => ../../../../service/
 
 replace github.com/Enflick/aws-sdk-go-v2/service/sso => ../../../../service/sso/
 
-replace github.com/Enflick/aws-sdk-go-v2/service/ssooidc => ../../../../service/ssooidc/
+replace github.com/Enflick/aws-sdk-go-v2/service/ssooidc v0.0.0-20250325155711-0a4bf6fdbeb3 => ../../../../service/ssooidc v0.0.0-20250325155711-0a4bf6fdbeb3/
 
 replace github.com/Enflick/aws-sdk-go-v2/service/sts => ../../../../service/sts/
