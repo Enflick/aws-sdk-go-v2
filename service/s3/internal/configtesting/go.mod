@@ -4,12 +4,12 @@ go 1.20
 
 require (
 	github.com/Enflick/aws-sdk-go-v2/config v1.27.16
-	github.com/Enflick/aws-sdk-go-v2/service/internal/s3shared v1.17.7
+	github.com/Enflick/aws-sdk-go-v2/service/internal/s3shared v0.0.0-20250325155711-0a4bf6fdbeb3
 )
 
 require (
 	github.com/Enflick/aws-sdk-go-v2 v1.4.0 // indirect
-	github.com/Enflick/aws-sdk-go-v2/credentials v1.17.16 // indirect
+	github.com/Enflick/aws-sdk-go-v2/credentials v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/feature/ec2/imds v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/internal/configsources v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/internal/endpoints/v2 v2.0.0-20250325155711-0a4bf6fdbeb3 // indirect
