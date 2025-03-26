@@ -3,7 +3,7 @@ module github.com/Enflick/aws-sdk-go-v2/example/service/dynamodb/createTable
 go 1.20
 
 require (
-	github.com/Enflick/aws-sdk-go-v2 v1.4.0
+	github.com/Enflick/aws-sdk-go-v2 v1.5.0
 	github.com/Enflick/aws-sdk-go-v2/config v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/service/dynamodb v0.0.0-20250325155711-0a4bf6fdbeb3
 )

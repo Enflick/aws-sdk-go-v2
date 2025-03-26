@@ -8,7 +8,7 @@ require (
 )
 
 require (
-	github.com/Enflick/aws-sdk-go-v2 v1.4.0 // indirect
+	github.com/Enflick/aws-sdk-go-v2 v1.5.0 // indirect
 	github.com/Enflick/aws-sdk-go-v2/credentials v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/feature/ec2/imds v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/internal/configsources v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect

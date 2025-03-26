@@ -25,7 +25,7 @@ replace github.com/Enflick/aws-sdk-go-v2/service/ssooidc => ../service/ssooidc
 replace github.com/Enflick/aws-sdk-go-v2/service/sts => ../service/sts/
 
 require (
-	github.com/Enflick/aws-sdk-go-v2 v1.4.0
+	github.com/Enflick/aws-sdk-go-v2 v1.5.0
 	github.com/Enflick/aws-sdk-go-v2/credentials v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/feature/ec2/imds v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/internal/ini v0.0.0-20250325155711-0a4bf6fdbeb3
