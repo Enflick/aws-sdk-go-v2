@@ -95,8 +95,8 @@ require (
 	github.com/Enflick/aws-sdk-go-v2/feature/ec2/imds v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/internal/configsources v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/internal/endpoints/v2 v2.0.0-20250325155711-0a4bf6fdbeb3 // indirect
-	github.com/Enflick/aws-sdk-go-v2/internal/ini v1.8.0 // indirect
-	github.com/Enflick/aws-sdk-go-v2/internal/v4a v1.3.7 // indirect
+	github.com/Enflick/aws-sdk-go-v2/internal/ini v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
+	github.com/Enflick/aws-sdk-go-v2/internal/v4a v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/accept-encoding v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/checksum v1.3.9 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/endpoint-discovery v1.9.8 // indirect
