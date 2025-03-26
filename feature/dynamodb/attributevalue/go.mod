@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/Enflick/aws-sdk-go-v2 v1.3.0
-	github.com/Enflick/aws-sdk-go-v2/service/dynamodb v1.32.6
+	github.com/Enflick/aws-sdk-go-v2/service/dynamodb v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/service/dynamodbstreams v1.20.8
 )
 

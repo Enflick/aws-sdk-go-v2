@@ -4,9 +4,9 @@ go 1.20
 
 require (
 	github.com/Enflick/aws-sdk-go-v2 v1.4.0
-	github.com/Enflick/aws-sdk-go-v2/config v1.27.16
+	github.com/Enflick/aws-sdk-go-v2/config v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.13.20
-	github.com/Enflick/aws-sdk-go-v2/service/dynamodb v1.32.6
+	github.com/Enflick/aws-sdk-go-v2/service/dynamodb v0.0.0-20250325155711-0a4bf6fdbeb3
 )
 
 require (
@@ -17,7 +17,7 @@ require (
 	github.com/Enflick/aws-sdk-go-v2/internal/ini v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/dynamodbstreams v1.20.8 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/accept-encoding v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
-	github.com/Enflick/aws-sdk-go-v2/service/internal/endpoint-discovery v1.9.8 // indirect
+	github.com/Enflick/aws-sdk-go-v2/service/internal/endpoint-discovery v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/presigned-url v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/sso v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/ssooidc v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect

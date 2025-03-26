@@ -2,7 +2,7 @@ module github.com/Enflick/aws-sdk-go-v2/service/internal/integrationtest
 
 require (
 	github.com/Enflick/aws-sdk-go-v2 v1.4.0
-	github.com/Enflick/aws-sdk-go-v2/config v1.27.16
+	github.com/Enflick/aws-sdk-go-v2/config v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/feature/s3/manager v1.16.21
 	github.com/Enflick/aws-sdk-go-v2/service/acm v1.26.0
 	github.com/Enflick/aws-sdk-go-v2/service/apigateway v1.23.10
@@ -31,7 +31,7 @@ require (
 	github.com/Enflick/aws-sdk-go-v2/service/directconnect v1.24.8
 	github.com/Enflick/aws-sdk-go-v2/service/directoryservice v1.24.8
 	github.com/Enflick/aws-sdk-go-v2/service/docdb v1.34.4
-	github.com/Enflick/aws-sdk-go-v2/service/dynamodb v1.32.6
+	github.com/Enflick/aws-sdk-go-v2/service/dynamodb v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/service/ec2 v1.162.0
 	github.com/Enflick/aws-sdk-go-v2/service/ecr v1.28.3
 	github.com/Enflick/aws-sdk-go-v2/service/ecs v1.41.11
@@ -99,7 +99,7 @@ require (
 	github.com/Enflick/aws-sdk-go-v2/internal/v4a v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/accept-encoding v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/checksum v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
-	github.com/Enflick/aws-sdk-go-v2/service/internal/endpoint-discovery v1.9.8 // indirect
+	github.com/Enflick/aws-sdk-go-v2/service/internal/endpoint-discovery v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/presigned-url v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/internal/s3shared v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect
 	github.com/Enflick/aws-sdk-go-v2/service/sso v0.0.0-20250325155711-0a4bf6fdbeb3 // indirect

@@ -3,7 +3,7 @@ module github.com/Enflick/aws-sdk-go-v2/internal/configsources/configtesting
 go 1.20
 
 require (
-	github.com/Enflick/aws-sdk-go-v2/config v1.27.16
+	github.com/Enflick/aws-sdk-go-v2/config v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/internal/configsources v0.0.0-20250325155711-0a4bf6fdbeb3
 )
 

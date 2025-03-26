@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/Enflick/aws-sdk-go-v2 v1.4.0
-	github.com/Enflick/aws-sdk-go-v2/config v1.27.16
+	github.com/Enflick/aws-sdk-go-v2/config v0.0.0-20250325155711-0a4bf6fdbeb3
 	github.com/Enflick/aws-sdk-go-v2/service/s3 v1.54.3
 	github.com/Enflick/aws-sdk-go-v2/service/s3control v1.44.11
 )
