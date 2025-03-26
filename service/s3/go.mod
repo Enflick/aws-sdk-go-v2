@@ -4,14 +4,14 @@ go 1.20
 
 require (
 	github.com/Enflick/aws-sdk-go-v2 v1.3.0
-	github.com/Enflick/aws-sdk-go-v2/aws/protocol/eventstream v0.0.0-20250325155711-0a4bf6fdbeb3
-	github.com/Enflick/aws-sdk-go-v2/internal/configsources v0.0.0-20250325155711-0a4bf6fdbeb3
+	github.com/Enflick/aws-sdk-go-v2/aws/protocol/eventstream v0.0.0-20250325221836-b4195dfa2eb5
+	github.com/Enflick/aws-sdk-go-v2/internal/configsources v0.0.0-20250325221836-b4195dfa2eb5
 	github.com/Enflick/aws-sdk-go-v2/internal/endpoints/v2 v2.0.0-20250325155711-0a4bf6fdbeb3
-	github.com/Enflick/aws-sdk-go-v2/internal/v4a v0.0.0-20250325155711-0a4bf6fdbeb3
-	github.com/Enflick/aws-sdk-go-v2/service/internal/accept-encoding v0.0.0-20250325155711-0a4bf6fdbeb3
-	github.com/Enflick/aws-sdk-go-v2/service/internal/checksum v0.0.0-20250325155711-0a4bf6fdbeb3
-	github.com/Enflick/aws-sdk-go-v2/service/internal/presigned-url v0.0.0-20250325155711-0a4bf6fdbeb3
-	github.com/Enflick/aws-sdk-go-v2/service/internal/s3shared v0.0.0-20250325155711-0a4bf6fdbeb3
+	github.com/Enflick/aws-sdk-go-v2/internal/v4a v0.0.0-20250325221836-b4195dfa2eb5
+	github.com/Enflick/aws-sdk-go-v2/service/internal/accept-encoding v0.0.0-20250325221836-b4195dfa2eb5
+	github.com/Enflick/aws-sdk-go-v2/service/internal/checksum v0.0.0-20250325221836-b4195dfa2eb5
+	github.com/Enflick/aws-sdk-go-v2/service/internal/presigned-url v0.0.0-20250325221836-b4195dfa2eb5
+	github.com/Enflick/aws-sdk-go-v2/service/internal/s3shared v0.0.0-20250325221836-b4195dfa2eb5
 	github.com/Enflick/smithy-go v1.3.0
 )
 
